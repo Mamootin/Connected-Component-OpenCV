@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8361bb5-e645-4675-aa89-bbf70ff272d3" name="Changes" comment="add Open CV connected componnet">
+    <list default="true" id="e8361bb5-e645-4675-aa89-bbf70ff272d3" name="Changes" comment="add persian number recognition algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConnectedComponent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectedComponent.ipynb" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.documentation.PythonDocumentationConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,7 +71,11 @@
       <workItem from="1754643033897" duration="1127000" />
       <workItem from="1754644330231" duration="1973000" />
       <workItem from="1754646465136" duration="317000" />
-      <workItem from="1754648855691" duration="9499000" />
+      <workItem from="1754648855691" duration="9973000" />
+      <workItem from="1754720223779" duration="401000" />
+      <workItem from="1754721169449" duration="768000" />
+      <workItem from="1754755645815" duration="3715000" />
+      <workItem from="1754759480608" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="Add HandWrite Image">
       <option name="closed" value="true" />
@@ -97,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754656496488</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add persian number recognition algorithm">
+      <option name="closed" value="true" />
+      <created>1754660516041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754660516041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +118,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add HandWrite Image" />
     <MESSAGE value="add Open CV connected componnet" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Open CV connected componnet" />
+    <MESSAGE value="add persian number recognition algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="add persian number recognition algorithm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/ConnectedComponent.ipynb</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

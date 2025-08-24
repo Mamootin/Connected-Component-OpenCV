@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8361bb5-e645-4675-aa89-bbf70ff272d3" name="Changes" comment="add persian number recognition algorithm">
+    <list default="true" id="e8361bb5-e645-4675-aa89-bbf70ff272d3" name="Changes" comment="Add nural network">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConnectedComponent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectedComponent.ipynb" afterDir="false" />
     </list>
@@ -36,22 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/media/kali/92A816A5A81687BD/Temp/DataSeience/09 - DeepLearning/ConnectedComponent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +76,12 @@
       <workItem from="1754720223779" duration="401000" />
       <workItem from="1754721169449" duration="768000" />
       <workItem from="1754755645815" duration="3715000" />
-      <workItem from="1754759480608" duration="409000" />
+      <workItem from="1754759480608" duration="2240000" />
+      <workItem from="1754911370766" duration="457000" />
+      <workItem from="1754915671852" duration="51000" />
+      <workItem from="1754928439305" duration="557000" />
+      <workItem from="1754929016168" duration="145000" />
+      <workItem from="1756004977384" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="Add HandWrite Image">
       <option name="closed" value="true" />
@@ -109,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754660516041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add nural network">
+      <option name="closed" value="true" />
+      <created>1754760198723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754760198723</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +133,8 @@
     <MESSAGE value="Add HandWrite Image" />
     <MESSAGE value="add Open CV connected componnet" />
     <MESSAGE value="add persian number recognition algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="add persian number recognition algorithm" />
+    <MESSAGE value="Add nural network" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add nural network" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
